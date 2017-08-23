@@ -1,5 +1,5 @@
 ---
-  post_title: 'banana'
+post_title: 'bananaA'
 layout: post
 published: true
 ---

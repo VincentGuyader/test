@@ -1,6 +1,6 @@
 ---
-post_title: 'banana'
-layout: post_type_probably_post
+post_title: 'bananaB'
+layout: post
 published: true
 ---
   Post goes here.
