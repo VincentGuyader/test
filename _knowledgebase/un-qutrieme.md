@@ -8,7 +8,8 @@ permalink: >
   https://abcdr.thinkr.fr/abcdr/un-qutrieme/
 published: true
 post_date: 2017-09-03 12:14:56
-categories: [ ]
+categories:
+  - coucou
 ---
 dans les 2 aaprtier
 que coucou
