@@ -1,11 +1,14 @@
 ---
 ID: 6
 post_title: ceci est une page
-author: demo
+author: vincent
 post_excerpt: ""
 layout: page
-permalink: http://www.thinkpy.fr/ceci-est-une-page/
+permalink: >
+  https://abcdr.thinkr.fr/ceci-est-une-page/
 published: true
-post_date: 2017-08-23 23:20:06
+post_date: 2017-09-03 10:57:30
+tags: [ ]
+categories: [ ]
 ---
 avec du texte

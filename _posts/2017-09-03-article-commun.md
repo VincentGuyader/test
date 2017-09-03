@@ -7,5 +7,8 @@ layout: post
 permalink: https://abcdr.thinkr.fr/article-commun/
 published: true
 post_date: 2017-09-03 10:18:43
+tags: [ ]
+categories:
+  - Non classé
 ---
 avec un texte inutle
