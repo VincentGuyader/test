@@ -7,7 +7,6 @@ layout: page
 permalink: https://abcdr.thinkr.fr/page-d-exemple/
 published: true
 post_date: 2017-09-02 12:24:10
-tags: [ ]
 categories: [ ]
 ---
 Voici un exemple de page. Elle est différente d’un article de blog, en cela qu’elle restera à la même place, et s’affichera dans le menu de navigation de votre site (en fonction de votre thème). La plupart des gens commencent par écrire une page « À Propos » qui les présente aux visiteurs potentiels du site. Vous pourriez y écrire quelque chose de ce tenant :

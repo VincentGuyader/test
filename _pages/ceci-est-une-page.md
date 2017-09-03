@@ -8,7 +8,6 @@ permalink: >
   https://abcdr.thinkr.fr/ceci-est-une-page/
 published: true
 post_date: 2017-09-03 10:57:30
-tags: [ ]
 categories: [ ]
 ---
 avec du texte

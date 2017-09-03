@@ -8,7 +8,8 @@ permalink: >
   https://abcdr.thinkr.fr/abcdr/un-troiseime/
 published: true
 post_date: 2017-09-03 10:31:49
-tags: [ ]
-categories: [ ]
+categories:
+  - banana
+  - coucou
 ---
 dans les 2 aaprtier

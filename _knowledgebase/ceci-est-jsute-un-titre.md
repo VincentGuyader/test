@@ -8,8 +8,8 @@ permalink: >
   https://abcdr.thinkr.fr/abcdr/ceci-est-jsute-un-titre/
 published: true
 post_date: 2017-09-03 10:57:30
-tags: [ ]
-categories: [ ]
+categories:
+  - banana
 ---
 # ici un titre
 

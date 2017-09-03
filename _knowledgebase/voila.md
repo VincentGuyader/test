@@ -7,7 +7,7 @@ layout: kbe_knowledgebase
 permalink: https://abcdr.thinkr.fr/abcdr/voila/
 published: true
 post_date: 2017-09-03 10:17:47
-tags: [ ]
-categories: [ ]
+categories:
+  - banana
 ---
 un traure
