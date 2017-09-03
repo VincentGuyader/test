@@ -7,3 +7,4 @@ layout: post
 permalink: https://abcdr.thinkr.fr/?p=20
 published: false
 ---
+avec du code dedans , mais tjrs en broillons
